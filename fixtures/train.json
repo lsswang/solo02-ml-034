@@ -1,0 +1,232 @@
+{
+  "dimension": 2,
+  "positions": 2,
+  "ridge": 0.1,
+  "initial": {
+    "w": [
+      0,
+      0
+    ],
+    "s": [
+      0
+    ]
+  },
+  "rows": [
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 15
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 5
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 8
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 12
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 6
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 14
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 3
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 17
+    },
+    {
+      "features": [
+        -1,
+        0
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 5
+    },
+    {
+      "features": [
+        -1,
+        0
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 15
+    },
+    {
+      "features": [
+        -1,
+        0
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 2
+    },
+    {
+      "features": [
+        -1,
+        0
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 18
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 6
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 14
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 3
+    },
+    {
+      "features": [
+        0,
+        1
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 17
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 15
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 5
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 8
+    },
+    {
+      "features": [
+        1,
+        0
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 12
+    },
+    {
+      "features": [
+        0,
+        -1
+      ],
+      "position": 0,
+      "click": 1,
+      "weight": 14
+    },
+    {
+      "features": [
+        0,
+        -1
+      ],
+      "position": 0,
+      "click": 0,
+      "weight": 6
+    },
+    {
+      "features": [
+        0,
+        -1
+      ],
+      "position": 1,
+      "click": 1,
+      "weight": 7
+    },
+    {
+      "features": [
+        0,
+        -1
+      ],
+      "position": 1,
+      "click": 0,
+      "weight": 13
+    }
+  ]
+}

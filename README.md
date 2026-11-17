@@ -1,0 +1,3 @@
+# Click learning and shared recommendation allocation
+Run `python3 demo.py` using Python 3.11, NumPy and SciPy. Current click_model fits a relevance-only logistic model. slates recommends for each user independently. Both are working ordinary tools. Synthetic training rows aggregate repeated binary events using positive integer weights. Position indices are zero-based.
+The expanded task defines a monotone examination model and shared-stock slot allocation. External allocation can consume an arbitrary legal probability tensor without fitting this model. No network, real user interaction or online service is required.
